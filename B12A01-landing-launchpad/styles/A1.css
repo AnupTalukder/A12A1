@@ -80,3 +80,47 @@ div h3{
 
 
   /* footer style  */
+
+  .footer-div-style{
+    padding: 127px 489px 80px 489px;
+  }
+
+  div h1{
+
+   color: #4E47FF;   
+  }
+  .h{
+    
+    font-size: 100px;
+    text-align: center;
+    
+  }
+
+  .list{
+    display: flex;    
+    list-style-type: none; 
+    /* align-items: center;   */
+    /* padding-left: 100px;  */
+    justify-content: space-around;
+    
+    
+  }
+
+  .font-style{
+    color:#8987A1;
+    margin-right:48px;
+   
+    
+     
+  }
+  .span-footer{
+    display:block;
+     align-items: center; 
+  }
+  p{
+    color:#8987A1;
+    text-align: center;
+    padding-top:8px;
+    padding-bottom: 20px;
+
+  }
