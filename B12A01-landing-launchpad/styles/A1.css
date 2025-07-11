@@ -10,7 +10,8 @@ padding:top 50px bottom 50px;
 .nav-font{
   font-family: "Inter", sans-serif;
   font-optical-sizing: auto;
-  font-weight: 800;
+  font-weight: 100;
+  font-weight: bold;
   font-style: normal;
   
 }
@@ -78,8 +79,21 @@ button:hover{
 
   /* main style  */
   main{
-    max-width: 1140;
-    margin: 0px auto;
+    /* max-width: 1140; */
+    /* margin: 0px auto; */
+  }
+
+  .bg-productive{
+     display: block;
+     align-items: center;
+     text-align: center;
+    justify-content: space-around;
+    
+    background-color: lavender;
+    margin:50px;
+    margin-left: 100px;
+    margin-right: 141px;
+
   }
 
     .productive-style{
@@ -90,15 +104,7 @@ button:hover{
      
   }
 
-  .bg-productive{
-     display: block;
-     align-items: center;
-     text-align: center;
-    justify-content: space-around;
-    background-color: antiquewhite;
-    margin: 116px 159px 137px 141px;
-
-  }
+  
 
   .productive-heading{
     text-align: center;
@@ -162,16 +168,16 @@ button:hover{
   /* footer style  */
   footer{
     background-color:whitesmoke;
-    /* height: 500px;+ */
+       
   }
 
   .footer-div-style{
-    padding: 127px 489px 80px 489px;
+    padding: 80px 489px 80px 489px;
   }
 
   .h{
     color: #4E47FF;     
-    font-size: 100px;
+    font-size: 80px;
     text-align: center;
     
   }
